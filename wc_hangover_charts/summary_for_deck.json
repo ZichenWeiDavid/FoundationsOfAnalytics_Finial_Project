@@ -1,0 +1,22 @@
+{
+  "n_pairs": 457,
+  "n_teams": 83,
+  "share_underperform": 0.5886214442013129,
+  "q1_expectation_residual_coef": 0.5870646333544045,
+  "q1_expectation_residual_p": 1.8551812411266116e-07,
+  "q1_expectation_residual_or": 1.7987008122978096,
+  "q1_exceeded_expectations_or": 4.762697026134953,
+  "q1_exceeded_expectations_p": 5.656243678530261e-07,
+  "q2_anova_p": 0.31301731545914097,
+  "q2_champion_mean_delta": -3.5714285714285716,
+  "q2_runnerup_mean_delta": -2.6666666666666665,
+  "q2_semifinalist_mean_delta": -2.6666666666666665,
+  "q3_full_stage_coef": 0.29479210688657354,
+  "q3_full_stage_p": 3.291890898457205e-10,
+  "q3_ranked_stage_coef": 0.19272982501473326,
+  "q3_ranked_stage_p": 0.016683611352139683,
+  "q4_stage_coef": -0.7507324078177287,
+  "q4_stage_p": 1.7950851885520077e-16,
+  "q4_r2": 0.4317458459785769,
+  "q4_n": 144
+}
